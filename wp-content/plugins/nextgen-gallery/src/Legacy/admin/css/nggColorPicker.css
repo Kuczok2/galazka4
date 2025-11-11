@@ -1,0 +1,14 @@
+#colorSelector{
+	background:transparent url(https://kuczok2.github.io/galazka4/wp-content/plugins/nextgen-gallery/src/Legacy/admin/images/select.png) repeat scroll 0 0;
+	height:36px;
+	position:relative;
+	width:36px;
+}
+#colorSelector div{
+	background:transparent url(https://kuczok2.github.io/galazka4/wp-content/plugins/nextgen-gallery/src/Legacy/admin/images/select.png) repeat scroll center center;
+	height:30px;
+	left:3px;
+	position:absolute;
+	top:3px;
+	width:30px;
+}
